@@ -83,7 +83,7 @@
     <% } %>
     <div class="jumbotron">
       <h1>Eric CI/CD</h1>
-      <p><i>QQ</i></p>
+      <p><i>TEST</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
