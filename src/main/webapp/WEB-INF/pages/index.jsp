@@ -83,7 +83,7 @@
     <% } %>
     <div class="jumbotron">
       <h1>Hi Nextlink</h1>
-      <p><i>CI/CD</i></p>
+      <p><i>CI/CD 0712 1053</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
