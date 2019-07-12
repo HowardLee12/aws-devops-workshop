@@ -82,8 +82,8 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Eric CI/CD</h1>
-      <p><i>0712</i></p>
+      <h1>Hi Nextlink</h1>
+      <p><i>CI/CD</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
