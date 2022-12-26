@@ -3,13 +3,13 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java: corretto17
-
+      java: corretto8
   build:
     commands:
-      - echo Build completed on `date`
+      - java -version
       - mvn package
-
 artifacts:
   files:
     - '**/*'
+  base-directory: 'HowardLee12/aws-devops-workshop'
+  
